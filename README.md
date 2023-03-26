@@ -51,12 +51,9 @@ npm run dev
 1. Login to Cyclic using github account
 2. Click "New App" to create the project
 3. On tab "Link your own" Select your repository
-4. Connect..
- <p align="center"><img src="assets/connect.png" alt="connect to repo" /></p>
-5. Add some variables like this
- <p align="center"><img src="assets/variables.png" alt="Variables environment" /></p>
+4. Connect..<p align="center"><img src="assets/connect.png" alt="connect to repo" /></p>
+5. Add some variables like this<p align="center"><img src="assets/variables.png" alt="Variables environment" /></p>
 6. set webhook `https://api.telegram.org/bot{BOT_TOKEN}/setWebhook?url={URL_PROD}`
-
 7. Bot deployed!!
 
 ---
